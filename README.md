@@ -10,7 +10,3 @@ I love :cake:
 
 Mi última línea
 
-nueva actividad
-finalizando con GitHub
-modifico líneas
-para realizar mi última modificación
